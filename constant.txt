@@ -1,0 +1,5 @@
+main_header: "test header"
+main_title: "test title"
+main_nav_bar: ["nav1", "nav2", "nav3"]
+section1_header: "test header 1"
+image_source: "https://drive.google.com/file/d/13KXMUwPOGaVpiZo9zIzNpAxchR_6bwS9/view?usp=sharing"
