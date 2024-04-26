@@ -624,7 +624,10 @@ margin-right: auto;
   .footer .row a:hover{
   color: var(--main-color) ;
   }
-  
+  .footer .row a i{
+    font-size:2em;
+    margin:0% 1%;
+    }
   .footer .row ul{
   width:100%;
   }
@@ -634,10 +637,7 @@ margin-right: auto;
   margin:0px 30px;
   }
   
-  .footer .row a i{
-  font-size:2em;
-  margin:0% 1%;
-  }
+ 
   
   @media (max-width:720px){
   .footer{
@@ -658,5 +658,7 @@ margin-right: auto;
   }
 
   }
+  /*footer*/
 
-  
+ 
+    
